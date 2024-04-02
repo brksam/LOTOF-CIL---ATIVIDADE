@@ -23,5 +23,9 @@ Opção 2: JOGO DE APOSTA ENTRE A E Z ( O obejetivo é acetar a letra que foi ge
 
 Opção 3: JOGAR ALGUM NÚMERO PAR (O objetivo é colocar algum número par).  
 
+Opção 0: SAIR DO PROGRAMA.
+
 -------------------------------------------------------------
+
+# ESSE FOI UM PROJETO SIMPLES. OBRIGADO PELA VISITA!
 
