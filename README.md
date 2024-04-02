@@ -1,8 +1,10 @@
 # LOTOFÁCIL-ATIVIDADE
-ATIVIDADE FACULDADE JAVA.
+ATIVIDADE FACULDADE JAVA.  
+
 -------------------------------------------------------------
 # COMO ENTRAR NO CÓDIGO 
-Para acessar o trabalho você deve clicar em atividadeLP depois em src logo em seguida verá o codigo fonte da aplicação LOTOFÁCIL.
+Para acessar o trabalho você deve clicar em atividadeLP depois em src logo em seguida verá o codigo fonte da aplicação LOTOFÁCIL.  
+
 -------------------------------------------------------------
 # REQUISITOS 
 JDK utilizado: 21.  
@@ -21,4 +23,5 @@ Opção 2: JOGO DE APOSTA ENTRE A E Z ( O obejetivo é acetar a letra que foi ge
 
 Opção 3: JOGAR ALGUM NÚMERO PAR (O objetivo é colocar algum número par).  
 
+-------------------------------------------------------------
 
