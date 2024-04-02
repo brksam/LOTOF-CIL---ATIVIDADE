@@ -26,6 +26,9 @@ Opção 3: JOGAR ALGUM NÚMERO PAR (O objetivo é colocar algum número par).
 Opção 0: SAIR DO PROGRAMA.
 
 -------------------------------------------------------------
+# EXEMPLO DE UM USUÁRIO
+
+<img src="atividadeLP/src/2024-04-02-18-45-31.gif">
 
 # ESSE FOI UM PROJETO SIMPLES. OBRIGADO PELA VISITA!
 
