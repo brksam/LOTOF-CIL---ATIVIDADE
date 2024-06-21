@@ -28,7 +28,15 @@ Opção 0: SAIR DO PROGRAMA.
 -------------------------------------------------------------
 # EXEMPLO DE UM USUÁRIO
 
-<img src="atividadeLP/src/2024-04-02-18-45-31.gif">
+
+
+https://github.com/brksam/LOTOFACIL-ATIVIDADE/assets/123503422/fb2d0e26-dbbd-41a9-bcee-160658184b9e
+
+
+
+https://github.com/brksam/LOTOFACIL-ATIVIDADE/assets/123503422/97620593-d2ef-4da7-9f04-21841e78b8de
+
+
 
 # ESSE FOI UM PROJETO SIMPLES. OBRIGADO PELA VISITA!
 
