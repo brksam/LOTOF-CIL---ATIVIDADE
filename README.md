@@ -28,7 +28,7 @@ Opção 0: SAIR DO PROGRAMA.
 -------------------------------------------------------------
 # EXEMPLO DE UM USUÁRIO
 
-<img src="LotoFacil/src/2024-04-02-18-42-47-Trim.gif">
+<img src="atividadeLP/src/2024-04-02-18-42-47-Trim.gif">
 
 # ESSE FOI UM PROJETO SIMPLES. OBRIGADO PELA VISITA!
 
